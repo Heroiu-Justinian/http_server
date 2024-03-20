@@ -8,7 +8,8 @@ Simply compile with `g++ server.cpp` and run
 It accepts concurrent connections.
 Here is the output of running `oha https://localhost:4221` :
 
-![Screenshot from 2024-03-20 15-35-32](https://github.com/Heroiu-Justinian/http_server/assets/72274906/df44f0aa-2d26-4b11-b6af-ef55b25407cd)
+![Screenshot from 2024-03-20 15-49-10](https://github.com/Heroiu-Justinian/http_server/assets/72274906/50633973-47d8-4d71-a7ac-6411d8b4084b)
+
 
 ## TODO
 - Identify cause of lower success rate in some cases
