@@ -4,7 +4,7 @@
  It has a very little HTTPS request parser.
 
 ## Usage
-Simply compile with `g++ server.cpp` and run
+Simply compile with `g++ server.cpp` and run.
 It accepts concurrent connections.
 Here is the output of running `oha https://localhost:4221` :
 
