@@ -4,7 +4,7 @@
  It has a very little HTTPS request parser.
 
 ## Usage
-Simply compile with 'g++ server.coo' and run
+Simply compile with `g++ server.cpp` and run
 It accepts concurrent connections.
 ## TODO
 - Refactor, code is ugly and repeats itself in places
